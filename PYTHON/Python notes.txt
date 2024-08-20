@@ -1,0 +1,38 @@
+1.What is oops ?
+
+Object-Oriented Programming (OOP) is a programming paradigm that uses the concept of "objects" to design and develop software. In OOP, objects are instances of classes, which serve as blueprints or templates for creating objects. This paradigm is centered around four key principles: Encapsulation, Inheritance, Polymorphism, and Abstraction. OOP is widely used in many programming languages, including Python, Java, C++, and others.
+
+2.What is python ?
+
+Python is an interpreted, object-oriented high level programming language with dynamic semantics.
+
+3.What are the fields in which python is used ?
+
+	1.Web Development
+	2.data science & Analytics
+	3.AI & Machine learning
+	4.Automation & scripting
+	5.Game development
+	6.Internet of things
+	7.Desktop application development
+	8.Cloud computing
+
+4. What is the history of python ?
+
+It was developed by Guido van Rossum in 1991.It was initially called ABC, Guido van Rossum started working on ABC in the 1980s.
+
+5.What is variables & Identifiers ?
+
+A variable in Python is a named storage location that holds a value. Variables allow you to store data that can be used and manipulated throughout your program.
+
+An identifier is a name used to identify a variable, function, class, module, or other objects in Python. It is essentially the name you give to these entities.
+
+6. what is a data type and what are the various data types present in python ?
+
+A data type in Python is a classification that specifies the type of value a variable can hold.
+
+Types
+
+
+
+
